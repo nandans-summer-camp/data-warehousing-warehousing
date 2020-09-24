@@ -13,9 +13,6 @@ Management wants the follow information from you and you've got to set up a proc
 * Get the average profit margin per product line (profit margin is profit divided by gross sales amount)
 
 
-You can take a look at [connecting-remotely.md](connecting-remotely.md) for tips on setting up a better work environment for completing this task.
-
-
 # 1. Mirror the operational database
 
 The engineers don't trust you, so they won't let you access directly their production database. Instead, they've given you all the data from their operational database in a PostgreSQL dump file (`operational-dump.sql`).
